@@ -82,7 +82,11 @@ delay(1000); </br>
 
 ## CIRCUIT DIAGRAM:
 
+![image](https://github.com/sivaraj111/Logical-operation/assets/133488419/1780f8a2-bdca-4187-be8b-c3082bd0447d)
+
 ## OUTPUT:
+
+![image](https://github.com/sivaraj111/Logical-operation/assets/133488419/4addd3f4-04f3-4e05-a1b0-f03baa066d2e)
 
 ## RESULT:
 
